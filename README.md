@@ -15,7 +15,7 @@
 
 <div align="center">
   <img src="https://drive.google.com/uc?export=view&id=1ujOe9c4M2krGTgOY9eRMyPyc3A71a9I7" width="45%">
-  <img src="https://drive.google.com/uc?export=view&id=1BFr9xGFewjCMJyIyq3X4dy3a14z20U59" width="45%">
+  <img src="https://drive.google.com/uc?export=view&id=1BFr9xGFewjCMJyIyq3X4dy3a14z20U59" width="48%">
 </div>
 
 ### PLE（左） 与 OPE（右） 模型对比
